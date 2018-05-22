@@ -1,0 +1,105 @@
+html{
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	background-color: #303030FF;
+}
+img{
+	display: inline-block;
+}
+a{
+	transition: 0.3s ease-out;
+}
+*{
+	box-sizing: border-box;
+}
+hr{
+width: 900px;
+
+}
+.ttt{
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 35px;
+	color: white;
+}
+.header{
+	background-image: url(Greyproblem.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	color: white;
+	padding-top: 300px;
+
+}
+.header-devis{
+	text-align: center;
+	justify-content: center;
+	
+	font-family: 'Merriweather', serif;
+	font-size: 35px;
+}
+.show{
+	padding-top: 30px;
+	margin-left: 370px;
+}
+.footer-cool p{
+	margin-top: 0px;
+	margin-bottom: 15px;
+
+}
+p.footer-name{
+	font-size: 19px;
+	margin-bottom: 10px;
+	line-height: normal;
+	font-family: 'Merriweather', serif;
+
+}
+p.footer-social{
+	color:#FFF;
+
+
+}
+
+p.footer-social-icons{
+	color: #FFF;
+	font-size: 19px;
+}
+p.footer-social-icons a{
+color:#FFF;
+text-decoration: none;
+
+}
+p.footer-social-icons a:hover{
+color: #FFF;
+}
+.button:hover{
+	color: #FFF;
+	background-color: #0294FCFF;
+}
+.button{
+	font-weight: 700;
+	width: 300px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 1.6px;
+	display: inline-block;
+	border-width: 2px;
+	border-color: #FFF;
+	border-style: solid;
+	border-radius: 50px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 23px;
+	padding-right: 23px;
+	margin-bottom: 13px;
+	transition: 0.2s ease-out;
+
+}
+.col-4{
+	margin-left: 525px;
+
+}
